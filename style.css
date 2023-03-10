@@ -1,0 +1,37 @@
+body{
+  margin: 0px;
+  padding: 0;
+  background-color: #d5e1ef;
+  font-family: 'Outfit';
+}
+
+.container{
+  margin: 200px auto;
+
+}
+
+img{
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.conteudo{
+  width: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+  border-radius: 10px;
+}
+h1{
+  font-size: 25px;
+}
+
+h1, p{
+  text-align: center;
+}
+p{
+  margin-bottom: 25px;
+  font-size: 15px;
+}
+
